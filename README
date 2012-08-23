@@ -1,4 +1,4 @@
-hbase-etl isa handful tool to transform and load data from hbase to hbase. This tool isbuilt originally to help medo LSI on wikipedia articles.
+hbase-etl is a handful tool to transform and load data from hbase to hbase. This tool isbuilt originally to help medo LSI on wikipedia articles.
 
 1. Prerequisite
 	- hadoop0-20-*, hbase 0-20-6
