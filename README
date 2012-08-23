@@ -1,0 +1,13 @@
+hbase-etl isa handful tool to transform and load data from hbase to hbase. This tool isbuilt originally to help medo LSI on wikipedia articles.
+
+1. Prerequisite
+	- hadoop0-20-*, hbase 0-20-6
+	- library:java-getopt, log4j
+2. Compile
+	- You can compile using ant,mvn
+3. Build
+	-
+4. Run
+	- hadoop jar $jarfile com.vung.processor.TextProcessingJobs -t $inputtable -i $inputcolumn -o $outputcolumn -p $processorclass -m $methodname 
+
+5. Examples
